@@ -1,0 +1,15 @@
+# Maven build output
+target/
+
+# Maven wrapper
+.mvn/
+.mvn/wrapper/
+
+# vscode specific
+.vscode/
+
+# Local Maven repository (if you use it)
+.settings/
+
+# Windows specific
+Desktop.ini
