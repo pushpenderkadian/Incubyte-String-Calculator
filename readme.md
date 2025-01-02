@@ -24,7 +24,7 @@ This is a simple implementation of a **String Calculator** that performs additio
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/string-calculator.git
+   git clone https://github.com/pushpenderkadian/string-calculator.git
    ```
 
 2. Navigate to the project directory:
